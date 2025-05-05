@@ -1,0 +1,22 @@
+.main-header {
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .main-header-nav {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+  }
+  
+  .main-header-nav ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+  }
+  
+  .main-header-button-wrapper {
+    margin-left: auto;
+  }
